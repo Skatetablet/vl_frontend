@@ -39,4 +39,6 @@ npm install or yarn install
 npm run dev or yarn run dev 
 ```
 
+### *** MAKE SURE IT RUNS ON PORT 3000 *** ###
+
 
