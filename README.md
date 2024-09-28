@@ -1,7 +1,5 @@
-# Next.js App
+# vl_technical_test
 
-## Description
-This is a [brief description of what your app does] built using [Next.js](https://nextjs.org). Follow the steps below to install the necessary dependencies and run the app locally.
 
 ## Prerequisites
 Make sure you have the following installed on your system:
